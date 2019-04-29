@@ -1,4 +1,4 @@
-age = 5
+age = input('Enter your age please:')
 print(age * 365 * 24 * 60 * 60)
 
 seconds_alive = age * 365 * 24 * 60 * 60
