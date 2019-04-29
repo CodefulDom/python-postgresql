@@ -1,5 +1,4 @@
-age = input('Enter your age please:')
-print(age * 365 * 24 * 60 * 60)
+age = int(input('Enter your age please: '))
 
 seconds_alive = age * 365 * 24 * 60 * 60
 print(f'You have lived for {seconds_alive} seconds. This is {age} years.')
