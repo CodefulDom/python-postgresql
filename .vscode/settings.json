@@ -1,4 +1,5 @@
 {
   "python.pythonPath": "/Users/dhallan/.local/share/virtualenvs/complete-python-postgresql-2R0VNF20/bin/python",
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "wolf.disableHotModeWarning": true
 }
