@@ -18,6 +18,6 @@ user_number = 3
 print(user_number in magic_number)
 
 if user_number == 3 or user_number == 9:
-    print(f"Your guess of {user_number} was correct")
+    print(f"Your guess of {user_number} was correct!")
 else:
     print(f"Your number of {user_number} was incorrect.")
