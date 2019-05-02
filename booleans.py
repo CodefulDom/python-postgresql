@@ -5,7 +5,7 @@ print(6 > 5)
 
 print(5 == 4)
 
-numbers_array = [1, 2, 3, 4, 5, 6]
-for i in numbers_array:
-    if i > 5:
-        print(i)
+numbers_array = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+for number in numbers_array:
+    if number > 5:
+        print(number)
